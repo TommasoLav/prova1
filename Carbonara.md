@@ -7,3 +7,4 @@ Uno dei miei piatti preferiti!
 * Spaghetti
 * Guanciale
 * Uova
+* Pecorino
