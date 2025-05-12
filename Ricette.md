@@ -3,4 +3,4 @@
 * Carbonara
 * Risotto ai funghi
 * Pennette al pomodoro
-
+* Minestrone di verdure
