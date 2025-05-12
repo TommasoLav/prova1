@@ -6,4 +6,4 @@ Le famose pennette al pomodoro
 
 * penne
 * pomodoro
-* basilico
+* formaggio
