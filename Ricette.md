@@ -2,3 +2,5 @@
 
 * Carbonara
 * Risotto ai funghi
+* Pennette al pomodoro
+
