@@ -8,3 +8,4 @@ Questo archivio contiene tutte le ricette
 * Risotto ai funghi
 * Pennette al pomodoro
 * Minestrone di verdure
+* Salmone al cartoccio
